@@ -1,0 +1,8 @@
+@import "../node_modules/bootstrap/dist/css/bootstrap.min.css";
+@import "../node_modules/bootstrap-icons/font/bootstrap-icons.css";
+img{
+    max-width: 200px;
+    display: block;
+    object-fit: contain;
+    height: 200px; 
+}
